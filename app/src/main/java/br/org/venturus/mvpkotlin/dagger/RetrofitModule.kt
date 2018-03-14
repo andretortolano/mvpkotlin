@@ -1,4 +1,4 @@
-package br.org.venturus.mvpkotlin.dagger.model
+package br.org.venturus.mvpkotlin.dagger
 
 import dagger.Module
 
